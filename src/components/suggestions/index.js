@@ -9,13 +9,13 @@ import img6 from "../../images/06.png";
 import img7 from "../../images/07.png";
 
 const item = [
-  { key: String(Math.random()), img: img1, label: "Doaçoes" },
-  { key: String(Math.random()), img: img2, label: "Doaçoes" },
-  { key: String(Math.random()), img: img3, label: "Doaçoes" },
-  { key: String(Math.random()), img: img4, label: "Doaçoes" },
+  { key: String(Math.random()), img: img1, label: "Celular" },
+  { key: String(Math.random()), img: img2, label: "Uber" },
+  { key: String(Math.random()), img: img3, label: "Carro" },
+  { key: String(Math.random()), img: img4, label: "Sky" },
   { key: String(Math.random()), img: img5, label: "Doaçoes" },
-  { key: String(Math.random()), img: img6, label: "Doaçoes" },
-  { key: String(Math.random()), img: img7, label: "Doaçoes" },
+  { key: String(Math.random()), img: img6, label: "Boleto" },
+  { key: String(Math.random()), img: img7, label: "Outros" },
 ];
 
 export default function Suggestions() {
