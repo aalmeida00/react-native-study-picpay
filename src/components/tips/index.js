@@ -30,7 +30,7 @@ const item = [
   {
     key: String(Math.random()),
     img: img11,
-    title: "Compre créditos para ifood!",
+    title: "Compre créditos para o ifood!",
     bgColor: "#00ab4b",
   },
   {
